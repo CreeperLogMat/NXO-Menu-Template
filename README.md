@@ -16,7 +16,7 @@ Welcome to the official GitHub repository for the **NXO Template**, the ultimate
 ### 📥 Installation
 
 1. **Download**: Get the latest version of the NXO Template from the [Releases](https://github.com/NuggetGT/NXO-Menu-Template/releases) section.
-2. **Watch the Tutorial**: Follow this [video tutorial](https://www.youtube.com/watch?v=G08beJqlOHU) for a step-by-step guide on how to add the correct references to setup the template.
+2. **Watch the Tutorial**: Follow this [video tutorial]([https://www.youtube.com/watch?v=G08beJqlOHU](https://www.dropbox.com/scl/fi/ukkyb2n8gaivjymho3g03/nxo-template-references.mp4?rlkey=atnk2s5gbtsxp15es433hh6uy&st=muzo5ai3&dl=0)) for a step-by-step guide on how to add the correct references to setup the template.
 3. **Setup**: Customize the template to your liking and add your own mods.
 4. **Launch**: Start Gorilla Tag and Enjoy your creation.
 REMEMBER DONT SKID!
