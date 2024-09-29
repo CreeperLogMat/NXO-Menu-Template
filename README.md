@@ -4,11 +4,10 @@ Welcome to the official GitHub repository for the **NXO Template**, the ultimate
 
 ### 🚀 Key Features
 
-- **200+ Mods**: Dive into a massive library of mods that push the boundaries of what's possible in Gorilla Tag.
-- **High-Quality**: Every mod included in NXO is crafted to ensure top performance and a seamless experience.
-- **Completely Free**: NXO is available to everyone at no cost—no hidden fees, no premium versions.
-- **User-Friendly Interface**: Our intuitive menu makes it easy to navigate through the extensive mod library.
-- **Regular Updates**: We’re continually adding new mods and improving the menu to keep your gameplay fresh.
+- **Well Organized**
+- **Easy-To-Handle**
+- **Highly Optimized**
+- **Sleek & Simple Design**
 
 ### ⚠️ Disclaimer
 
@@ -16,9 +15,11 @@ Welcome to the official GitHub repository for the **NXO Template**, the ultimate
 
 ### 📥 Installation
 
-1. **Download**: Get the latest version of NXO from the [Releases](https://github.com/NuggetGT/NXO-Mod-Panel/releases) section.
-2. **Watch the Tutorial**: Follow this [video tutorial](https://www.youtube.com/watch?v=G08beJqlOHU) for a step-by-step guide on how to install mods for Gorilla Tag, including how to set up NXO.
-3. **Launch**: Start Gorilla Tag and Enjoy the NXO Mod Menu!
+1. **Download**: Get the latest version of the NXO Template from the [Releases](https://github.com/NuggetGT/NXO-Menu-Template/releases) section.
+2. **Watch the Tutorial**: Follow this [video tutorial](https://www.youtube.com/watch?v=G08beJqlOHU) for a step-by-step guide on how to add the correct references to setup the template.
+3. **Setup**: Customize the template to your liking and add your own mods.
+4. **Launch**: Start Gorilla Tag and Enjoy your creation.
+REMEMBER DONT SKID!
 
 ### 💬 Support & Community
 
