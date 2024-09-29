@@ -1,4 +1,4 @@
-# NXO - The Ultimate Gorilla Tag Mod Menu
+# NXO Template | The Ultimate Gorilla Tag Mod Menu Template
 
 Welcome to the official GitHub repository for **NXO**, the ultimate mod menu for Gorilla Tag! NXO is a high-quality, free mod menu packed with over 200 mods, providing endless customization and enhancements for your Gorilla Tag experience.
 
