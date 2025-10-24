@@ -19,7 +19,7 @@ Welcome to the official GitHub repository for the **NXO Template**, the ultimate
 3. **Setup**: Customize the template to your liking and add your own mods.
 3. **Launch**: Start Gorilla Tag and Enjoy your creation.
 
-Remember kids, DONT SKID!
+Remember kids, DON'T SKID!
 
 ### 💬 Support & Community
 
