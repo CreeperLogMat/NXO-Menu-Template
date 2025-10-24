@@ -23,4 +23,4 @@ Remember kids, DONT SKID!
 
 ### 💬 Support & Community
 
-For support, updates, and to connect with other NXO users, [join our community on Discord!](https://discord.gg/BD5pJHtwmQ).
+For support, updates, and to connect with other NXO users, [join our community on Discord!](https://discord.gg/BD5pJHtwmQ)
