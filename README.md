@@ -1,3 +1,5 @@
+#### *Note that this is an unofficial revival of the NXO Template, the original owner discontinued it as he stated that he didn't want to maintain it. Show some love for [NuggetGT](https://github.com/NuggetGT), the original auther for making a good template that anyone can use@
+
 # NXO Template | The Ultimate Gorilla Tag Mod Menu Template
 
 Welcome to the unofficial GitHub repository for the **NXO Template**, the ultimate mod menu template for Gorilla Tag! NXO Menu Template is a high-quality, free, and optimized mod menu template providing endless customization and enhancements for your Gorilla Tag mod menu developing experience.
