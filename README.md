@@ -1,4 +1,4 @@
-#### *Note that this is an unofficial revival of the NXO Template, the original owner discontinued it as he stated that he didn't want to maintain it. Show some love for [NuggetGT](https://github.com/NuggetGT), the original auther for making a good template that anyone can use@
+#### *Note that this is an unofficial revival of the NXO Template, the original owner discontinued it as he stated that he didn't want to maintain it. Show some love for [NuggetGT](https://github.com/NuggetGT), the original auther for making a good template that anyone can use!
 
 # NXO Template | The Ultimate Gorilla Tag Mod Menu Template
 
